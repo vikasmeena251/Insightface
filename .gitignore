@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.log
+
+# Virtual environment
+venv/
+face/
+
+# Streamlit
+.streamlit/
+
+# VSCode
+.vscode/
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
+
+# Model weights or large data
+*.onnx
+*.pkl
+*.npz
+models/
+downloads/
